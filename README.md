@@ -30,6 +30,7 @@ The variance for Lot 1 and Lot 2 meet the design specification. However, Lot 3 d
 
 ### T-Test Lot 2
 <img width="574" alt="Screen Shot 2022-05-22 at 11 04 52 PM" src="https://user-images.githubusercontent.com/98666231/169753788-144c3688-9135-4bdb-bce8-999617fccbe0.png">
+
 ### T-Test Lot 3
 <img width="587" alt="Screen Shot 2022-05-22 at 11 05 09 PM" src="https://user-images.githubusercontent.com/98666231/169753817-ba5ccba0-37b4-4eed-839a-b3ff67e91ae1.png">
 
